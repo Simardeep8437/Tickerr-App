@@ -18,4 +18,4 @@ module.exports = function validateCommentInput(data) {
     errors,
     isValid: isEmpty(errors)
   };
-};
+}; 
